@@ -20,3 +20,4 @@ function logShout(string){
   console.log("HELLO".toUpperCase())
 }
 
+function sayHiToGrandma(string){
